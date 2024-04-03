@@ -1,0 +1,8 @@
+1.github account
+2.empty repo create
+3,locak system m  git config --global user.name "Shital193"
+		 git config --global user.email "shitalmodhavadiya193@gmail.com"
+4.git push -u origin master
+   ->error askti h
+    (username and password)
+   ->for password==generated token from github
